@@ -1,4 +1,4 @@
-n.\" manpage for K-shell. Simple shell project to Holberton School.
+.\" manpage for K-shell. Simple shell project to Holberton School.
 .\" Contact AUTHORS to correct errors or typos.
 .TH k_shell 0 "15 November 2022" "1.0" "Kayman-shell man page"
 
