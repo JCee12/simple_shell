@@ -1,4 +1,4 @@
-y#include "text.h"
+#include "text.h"
 
 /**
  * split_words - Split a line into words
