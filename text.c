@@ -1,4 +1,4 @@
-s#include "text.h"
+#include "text.h"
 #include "commands.h"
 #include "general.h"
 #include "memory.h"
