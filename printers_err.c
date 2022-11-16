@@ -1,4 +1,4 @@
-g#include "text.h"
+#include "text.h"
 
 /**
  * print_err - Print a message to STDERR
