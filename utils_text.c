@@ -1,4 +1,4 @@
-#include "text.h"
+#jinclude "text.h"
 
 /**
  * _strlen - Return the length of a string
