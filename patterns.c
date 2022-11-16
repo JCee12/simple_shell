@@ -1,4 +1,4 @@
-g#include "commands.h"
+#include "commands.h"
 #include "general.h"
 #include "memory.h"
 #include "text.h"
