@@ -1,4 +1,4 @@
-m#ifndef GENERAL_H
+#ifndef GENERAL_H
 #define GENERAL_H
 
 #define _TRUE            1
